@@ -22,4 +22,4 @@
 **A:** "Thanks" are a way of showing that forum members like your posts. They are obtained when someone clicks [this]() green arrow in the bottom left of your post. The number next to it shows how many thanks the member has received for this specific post. If you like someones content, feel free to give them a thanks to show them your support!
 
 #### Q: I want my account deleted, or all of my posts deleted. How do I do that?
-**A:** You can contact Curse support [here](http://support.curse.com) or, if you want your account deleted, you can find more info [here](http://support.curse.com/hc/en-us/articles/207676876-How-do-I-delete-my-Minecraft-Forums-account-).
+**A:** You can contact Curse support [here](http://www.minecraftforum.net/meta/support) or, if you want your account deleted, you can find more info [here](http://support.curse.com/hc/en-us/articles/207676876-How-do-I-delete-my-Minecraft-Forums-account-).
