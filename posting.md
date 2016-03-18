@@ -5,3 +5,9 @@
 
 #### Q: How do I post an image or screenshot?
 **A:** You can embed images into your posts by clicking the "Insert/edit image" button in the post editor. If you already have a link to the image you want to embed in your post, just put it in the source option and then press OK. The description and dimensions options are optional. If you don't already have a link to the image and have it on your computer instead, you'll need to upload it somewhere. We recommend that you use [Imgur](https://imgur.com/), a popular, reliable and free image hosting service. Click the upload images button at the top, and then either select the image from your computer or drag and drop it on the page, then click start upload. Once it's done, you'll need to get the direct link to the image. In most browsers, you can right click the image and there will be an option to either open image in a new tab or open the direct image. Click this and copy the URL of the image, you can now put this URL in the source option and click OK to insert the image into your post.
+
+#### Q: How do I post a video?
+**A:** For the most part, you shouldn't have to worry about this. The forum will automatically convert any YouTube links posted on the forum into an embeded video. If for some reason that doesn't work, you can use the [media] BBCode tag. An example of using this tag would be like this, [media]YouTube link here[/media].
+
+#### Q: How do I make spoilers?
+**A:** You can make a spoiler in your post by clicking the "Insert a spoiler" button in the post editor, you can find it by looking for the exclamation mark. If you click the button with no text selected, it will make a blank spoiler for you to type in. If you had text highlighted when you click the spoiler button, the editor will put the text you had highlighted into the spoiler for you.
