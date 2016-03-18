@@ -5,15 +5,3 @@
 
 #### Q: How do I post an image or screenshot?
 **A:** You can embed images into your posts by clicking the "Insert/edit image" button in the post editor. If you already have a link to the image you want to embed in your post, just put it in the source option and then press OK. The description and dimensions options are optional. If you don't already have a link to the image and have it on your computer instead, you'll need to upload it somewhere. We recommend that you use [Imgur](https://imgur.com/), a popular, reliable and free image hosting service. Click the upload images button at the top, and then either select the image from your computer or drag and drop it on the page, then click start upload. Once it's done, you'll need to get the direct link to the image. In most browsers, you can right click the image and there will be an option to either open image in a new tab or open the direct image. Click this and copy the URL of the image, you can now put this URL in the source option and click OK to insert the image into your post.
-
-#### Q: How do I post a video?
-**A:**
-
-#### Q: How do I make spoilers?
-**A:**
-
-#### Q: I have a very long post and want to organize it with a few links. How do I make a link that takes me elsewhere in the same post?
-**A:**
-
-#### Q: How do I delete my own post or thread?
-**A:**
