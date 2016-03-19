@@ -11,3 +11,9 @@
 
 #### Q: How do I make spoilers?
 **A:** You can make a spoiler in your post by clicking the "Insert a spoiler" button in the post editor, you can find it by looking for the exclamation mark. If you click the button with no text selected, it will make a blank spoiler for you to type in. If you had text highlighted when you click the spoiler button, the editor will put the text you had highlighted into the spoiler for you.
+
+#### Q: I have a very long post and want to organize it with a few links. How do I make a link that takes me elsewhere in the same post?
+**A:** You can use a cool feature called anchors. Anchors allow you to have clickable text that will bring you somewhere else on a post. Most commonly, this will be used for making table of contents on long posts for easier navigation. Anchors use 2 BBCode tags, [goto] and [anchor]. The [goto] tag is the tag you use to link to an existing anchor. An example of using [goto] would be as follows, [goto='Introduction']The Introduction[/goto]. Using this would create clickable text "The Introduction" linking to an anchor named Introduction. Creating an anchor to link to is just as easy. Make sure that you put this anchor wherever you want the [goto] tag linking people to. If we are to name it Introduction, the anchor would be [anchor='Introduction'][/anchor]. Once we've done all that, the clickable "The Introduction" text should now be linking to wherever you put the Introduction anchor at.
+
+#### Q: How do I delete my own post or thread?
+**A:** You can report your thread or post with the report reason "Move/Delete My Post". A moderator will then remove it for you. Please note that if you would like all your posts deleted, you should contact Curse support [here](http://www.minecraftforum.net/meta/support) instead.
