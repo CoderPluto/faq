@@ -4,10 +4,10 @@
 **A:** In order to change your username, you need to contact Curse support. More information on how to do this is outlined [here](http://support.curse.com/hc/en-us/articles/204270285-How-do-I-change-my-Curse-Account-name-). You only get one username change, though.
 
 #### Q: How do I change my avatar?
-**A:** You can change your avatar by visiting [this](http://www.minecraftforum.net/account/avatars) link or hovering over your name in the top right corner of the webpage and selecting "Change Avatar" ([reference]()). There is no minimum size for an avatar, but ideally, they're the same width and height.
+**A:** You can change your avatar by visiting [this](http://www.minecraftforum.net/account/avatars) link or hovering over your name in the top right corner of the webpage and selecting "Change Avatar" ([reference]()). There is no minimum size for an avatar, but ideally, they're the same width and height. The dimensions for an avatar are 140x140 pixels.
 
 #### Q: Can I upload an animated avatar?
-**A:** Yes, you can. However, they must go though a process before they are animated on the site. As such, they might show as static images for a short amount of time.
+**A:** Yes, you can. However, they must go though a process before they are animated on the site. As such, they might show as static images for a short amount of time. Your avatar must be 100x100 pixels or less to be animated. 
 
 #### Q: How do I change my signature?
 **A:** You can edit your signature by visiting [this](http://www.minecraftforum.net/account/profile) link. Scroll down a bit until you see "Signature" and start editing. There are no limits to your signature.
