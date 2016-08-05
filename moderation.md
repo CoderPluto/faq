@@ -40,8 +40,8 @@
 #### Q: Can moderators edit my posts?
 **A:** Yes, they can. However, they only do so when they need to. They will never edit your posts just for fun.
 
-#### Q: How can I apply to be a moderator?
-**A:** 
+#### Q: I'd love to be a moderator! What do I do?
+**A:** So, you're interested in being a moderator? Being a moderator, you process reports, issue warnings, and ensure that the forums stay family friendly. If you're interested in the position, you can [read this thread for more information]().
 
 #### Q: What does a moderator do?
 **A:** A moderator processes reports, issues warnings, deleted/edits posts and threads, helps our members, and most importantly, they keep the communnity safe and family friendly. If you'd like to learn more, you can read our [staff guidelines]()
