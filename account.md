@@ -23,3 +23,6 @@
 
 #### Q: I want my account deleted, or all of my posts deleted. How do I do that?
 **A:** You can contact Curse support [here](http://www.minecraftforum.net/meta/support) or, if you want your account deleted, you can find more info [here](http://support.curse.com/hc/en-us/articles/207676876-How-do-I-delete-my-Minecraft-Forums-account-).
+
+#### Q: How do I ignore someone?
+**A:** Next to someone's name on their posts or private message, there's a green arrow. Hover over it and press "Ignore User".
